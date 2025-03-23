@@ -1,4 +1,4 @@
-# Pokedex
+# Pokedex-Project
 A JavaScript-based Pokedex website with search, filtering, and responsive design. This project is built using HTML, CSS, and JavaScript to provide a user-friendly experience for browsing Pokemon data.
 # Features
 - Search capabilities
